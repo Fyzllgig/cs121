@@ -1,6 +1,6 @@
 #Assignment 6
 #David Parrott
-#11239947
+#XXXX
 #submitted 10_19_2011
 
 from math import *
